@@ -108,3 +108,7 @@ directories you use most frequently, so you can "jump" to them in just a few \
 keystrokes."""
 priority = "optional"
 section = "utils"
+
+[lib]
+name = "zoxide"
+path = "src/main.rs"
