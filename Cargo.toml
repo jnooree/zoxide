@@ -111,4 +111,4 @@ section = "utils"
 
 [lib]
 name = "zoxide"
-path = "src/main.rs"
+path = "src/lib.rs"
